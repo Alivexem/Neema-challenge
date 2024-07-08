@@ -15,7 +15,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 120px;
-    height: 290px;
+    height: 300px;
     margin: 0;
     padding: 0;
     background-color: #FFFFFF;
@@ -24,7 +24,7 @@ body{
 .yellow{
     border: none;
     width: 250px;
-    height: 290px;
+    height: 300px;
     margin: 0;
     padding: 0;
     background-color: #fdcf60;
@@ -223,7 +223,7 @@ li{
 .box10{
     position: relative;
     height: 270px;
-    width: 360px;
+    width: 380px;
     border: none;
     background-color: #FFFFFF;
     margin-top: 50px;
