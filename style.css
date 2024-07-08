@@ -15,7 +15,7 @@ body{
     display: flex;
     flex-direction: column;
     width: 120px;
-    height: 270px;
+    height: 290px;
     margin: 0;
     padding: 0;
     background-color: #FFFFFF;
@@ -24,7 +24,7 @@ body{
 .yellow{
     border: none;
     width: 250px;
-    height: 270px;
+    height: 290px;
     margin: 0;
     padding: 0;
     background-color: #fdcf60;
@@ -153,7 +153,7 @@ a{
 
 .box5{
     position: relative;
-    height: 300px;
+    height: 340px;
     width: 340px;
     border: none;
     background-color: #FFFFFF;
@@ -189,7 +189,7 @@ li{
 
 .box7{
     position: relative;
-    height: 300px;
+    height: 340px;
     width: 340px;
     border: none;
     background-color: #FFFFFF;
