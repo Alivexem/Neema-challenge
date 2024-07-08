@@ -1,7 +1,7 @@
 body{
     background: #0D1216;
     font-family: 'Quicksand', sans-serif;
-    padding: 3px;
+    padding: 2px;
 }
 
 .box{
@@ -29,7 +29,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #fdcf60;
-    
+
 }
 .hello{
     position: relative;
@@ -53,7 +53,8 @@ h1{
     padding: 10px;
     font-size: 2.8rem;
     margin: 63px 0 10px 0;
-    
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 
@@ -63,7 +64,7 @@ h1{
     align-items: center;
     flex-direction: column;
     border: none;
-    
+
     margin-top: 10vh;
 }
 .head{
@@ -88,10 +89,10 @@ h1{
     margin: 0;
     padding: 0;
     background-color: #FFFFFF;
-    
+
 }
 .sechead{
-    font-size: 2.1rem;
+    font-size: 1.9rem;
     padding-left: 25px;
     color: #FFFFFF;
 }
@@ -197,7 +198,7 @@ li{
     margin-top: 50px;
     display: flex;
     flex-direction: column;
-    
+
 }
 
 .text5{
@@ -234,5 +235,42 @@ li{
     align-items: center;
     padding: 0 5px 0 10px;
 }
+h2,h3,h4,h5{
+    font-family: 'Open Sans', sans-serif;
+}
+h5{
+    color:#1A3970;
+}
 
-
+.butdiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+.butdiv button{
+    width: 150px;
+    padding: 7px;
+    color: black;
+   
+    border: none;
+    font-size: 0.9rem;
+    border-radius: 3px;
+}
+button:active{
+    background: gray;
+}
+.vwhole{
+    background: #0D45A6;
+    color: #FFFFFF;
+}
+.vslide{
+    color: #0D45A6;
+    background: #FFFFFF;
+}
+.whole{
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
